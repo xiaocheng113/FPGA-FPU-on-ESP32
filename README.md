@@ -16,3 +16,7 @@
 
 ## 外设
 * 无
+## 仓库目录介绍
+* images
+* Sourcecode
+* ExecutableFiles
