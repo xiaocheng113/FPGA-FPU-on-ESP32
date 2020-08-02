@@ -18,7 +18,7 @@
 ## 外设
 * 无
 ## 项目演示  
-![image](https://raw.githubusercontent.com/xiaocheng113/FPGA-FPU-on-ESP32/master/images/simulation/add.png)
+![image](https://raw.githubusercontent.com/xiaocheng113/FPGA-FPU-on-ESP32/master/images/result/add.png)
 ## 仓库目录介绍
 * **images**  
 仿真结果  
