@@ -22,11 +22,11 @@
 ## 仓库目录介绍
 * images
 
-* Sourcecode  
+* **Sourcecode**  
 FPU.v  
 FPU_tb.v  
 qspi_addr.v  
 qspi_slave.v  
 QSPI_slave_tp.v  
-* ExecutableFiles
+* **ExecutableFiles**  
 存放bit文件
