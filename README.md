@@ -12,8 +12,8 @@
 * Vivado 2018.3
 *
 ## 板卡与芯片型号
-
-
+* Spartan Edge Accelerator Board (SEA board)
+* xc7s15ftgb196-1
 ## 外设
 * 无
 ## 项目演示
