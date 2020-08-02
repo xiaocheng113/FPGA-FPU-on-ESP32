@@ -10,7 +10,8 @@
 * 田熙
 ## 工具版本
 * Vivado 2018.3
-*
+* flash_download_tools_v3.6.7
+* uPyCraft_V1.0
 ## 板卡与芯片型号
 * Spartan Edge Accelerator Board (SEA board)
 * xc7s15ftgb196-1
