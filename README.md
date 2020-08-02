@@ -17,8 +17,8 @@
 * xc7s15ftgb196-1
 ## 外设
 * 无
-## 项目演示
-
+## 项目演示  
+![image](https://github.com/xiaocheng113/images/simulation/blob/master/images/add.png)
 ## 仓库目录介绍
 * **images**  
 仿真结果  
